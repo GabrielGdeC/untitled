@@ -1,0 +1,27 @@
+{
+  "name": "untitled",
+  "version": "0.0.1",
+  "description": "projeto 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielGdeC/untitled.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Gabriel Guimaraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielGdeC/untitled/issues"
+  },
+  "homepage": "https://github.com/gabrielGdeC/untitled#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
